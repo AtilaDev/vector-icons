@@ -3,5 +3,3 @@ node_modules/**/*
 yarn-error.log
 .DS_Store
 .expo
-website/.expo/
-website/web-build/
